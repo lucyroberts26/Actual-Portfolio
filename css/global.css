@@ -1,0 +1,28 @@
+	body {
+		font-family: 'Raleway', sans-serif;
+	}
+
+	a {
+		color: #FF785A;
+	}
+
+	.navbar-default {
+	    background-color: #ffe94d;
+	    border-color: #e7e7e7;
+	}
+
+	.navbar-default .navbar-brand {
+	    color: #000;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+	    color: #000;
+	}
+
+	h1 {
+		color: #FF785A;
+	}
+
+	.institution{
+		color: #FF785A
+	}
