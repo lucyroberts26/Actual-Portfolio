@@ -36,3 +36,11 @@
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
+
+	.logo {
+		height: 40px;
+	}
+
+	.navbar-brand {
+    	padding: 5px 15px;
+	}
