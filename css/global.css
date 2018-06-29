@@ -26,3 +26,13 @@
 	.institution{
 		color: #FF785A
 	}
+
+	#mainbody {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	#projectpadding {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
